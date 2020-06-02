@@ -6,6 +6,8 @@ Core concepts of etcd
 
 Copy the content of [README.md](https://raw.githubusercontent.com/piotrpersona/etcd-core/master/README.md) and paste it on the [mark.show](https://mark.show/#/) left pane.
 
+[Play slides](https://mark.show/?source=https://raw.githubusercontent.com/piotrpersona/etcd-core/master/README.md)
+
 ---
 ## agenda
 
